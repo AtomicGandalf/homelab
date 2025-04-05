@@ -1,0 +1,4 @@
+I started building my homelab by installing Linux Lite 7.4 on an old laptop.
+I setup a restore point to a fresh installation.
+I setup restore points daily and monthly, keeping 5 daily and 2 monthly snapshots
+Then I set the theme to darkmode
