@@ -1,4 +1,9 @@
 I started building my homelab by installing Linux Lite 7.4 on an old laptop.
-I setup a restore point to a fresh installation.
+Ran commands to update the installation to make sure it has all necessary packages.
+  sudo apt update
+  sudo apt upgrade
+Ran a command to install screen to use for configuring the Cisco network devices
+  sudo apt install screen
+I setup a restore point
 I setup restore points daily and monthly, keeping 5 daily and 2 monthly snapshots
 Then I set the theme to darkmode
